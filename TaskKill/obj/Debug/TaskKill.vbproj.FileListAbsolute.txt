@@ -1,0 +1,12 @@
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\bin\Debug\TaskKill.exe.config
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\bin\Debug\TaskKill.exe
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\bin\Debug\TaskKill.pdb
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\bin\Debug\TaskKill.xml
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.vbprojAssemblyReference.cache
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.Form1.resources
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.Resources.resources
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.vbproj.GenerateResource.cache
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.vbproj.CoreCompileInputs.cache
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.exe
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.xml
+C:\Users\vpmor_59j1kt5\source\repos\TaskKill\TaskKill\obj\Debug\TaskKill.pdb
